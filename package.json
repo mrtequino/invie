@@ -1,0 +1,19 @@
+{
+  "name": "invie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrtequino/invie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrtequino/invie/issues"
+  },
+  "homepage": "https://github.com/mrtequino/invie#readme"
+}
